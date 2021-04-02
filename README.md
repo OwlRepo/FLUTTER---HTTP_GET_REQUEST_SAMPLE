@@ -1,6 +1,6 @@
 # flutter_playground
 
-A new Flutter project.
+A new Flutter project that shows data from HTTP request with the help of GetX State Management.
 
 ## Getting Started
 
